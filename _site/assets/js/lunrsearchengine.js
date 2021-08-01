@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "http://localhost:4000/about",
     "title": "About me",
-    "body": " My name is Nguyen Cong Khon. I was born in Hue, central Vietnam. I'm studying Bachelor of Computer Science at Toyohashi University of Technology in Japan. I'm currently doing a research on Applied Natural Language Processing in Applied Information System Lab. In 2022/04, I will move to Tokyo to work in a Tech Company as a Full-stack engineer. I will use this blog to summarize interesting things during my years studying abroad in Japan. ContactPlease contact me by Email, Facebook Messenger or Instagram Email Facebook Instagram"
+    "body": " My name is Nguyen Cong Khon. I was born in Hue, central Vietnam. I'm studying Bachelor of Computer Science at Toyohashi University of Technology in Japan. I'm currently doing a research on Applied Natural Language Processing in Applied Information System Lab. In 2022/04, I will move to Tokyo to work for a Tech Company as a Full-stack engineer. This blog is where I share stories of my years studying abroad in Japan. ContactPlease contact me by Email, Facebook Messenger or Instagram Email Facebook Instagram"
     }, {
     "id": 2,
     "url": "http://localhost:4000/categories",
