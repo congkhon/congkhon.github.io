@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "http://localhost:4000/about",
     "title": "About me",
-    "body": "This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.  Documentation: Please, read the docs here. Questions or bug reports?: Head over to our Github repository! Buy me a coffeeThank you for your support! Your donation helps me to maintain and improve Mediumish . Buy me a coffee Documentation"
+    "body": " My name is Nguyen Cong Khon. I was born in Hue, central Vietnam. I'm studying Bachelor of Computer Science at Toyohashi University of Technology in Japan. I'm currently doing a research on Applied Natural Language Processing in Applied Information System Lab. In 2022/04, I will move to Tokyo to work in a Tech Company as a Full-stack engineer. I will use this blog to summarize interesting things during my years studying abroad in Japan. ContactPlease contact me by Email, Facebook Messenger or Instagram Email Facebook Instagram"
     }, {
     "id": 2,
     "url": "http://localhost:4000/categories",

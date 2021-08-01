@@ -8,27 +8,28 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/avatar.png" alt="avatar"/></p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<p>
+My name is Nguyen Cong Khon. I was born in Hue, central Vietnam. I'm studying Bachelor of Computer Science at Toyohashi University of Technology in Japan.<br><br>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+I'm currently doing a research on Applied Natural Language Processing in <a href="https://is.cs.tut.ac.jp/">Applied Information System Lab</a>. In 2022/04, I will move to Tokyo to work in a Tech Company as a Full-stack engineer.<br><br>
 
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+I will use this blog to summarize interesting things during my years studying abroad in Japan.
+</p>
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>Contact</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>Please contact me by Email, Facebook Messenger or Instagram</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a href="mailto: ncktoyohashi@gmail.com" class="btn btn-light far fa-envelope"> Email</a>
+<a target="_blank" href="https://www.facebook.com/nguyencongkhon" class="btn btn btn-light fab fa-facebook"> Facebook</a>
+<a target="_blank" href="https://www.instagram.com/congkhon/" class="btn btn btn-light fab fa-instagram"> Instagram</a>
 
 </div>
 </div>
