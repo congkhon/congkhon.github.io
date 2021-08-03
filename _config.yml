@@ -4,8 +4,7 @@ title: "Cong Khon's Blog"
 description: "A personal blog, telling stories about self-study, cooking and technology."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-domain: 'github.com/toyohashi'
-url: 'https://github.com/toyohashi'
+url: 'https://toyohashi.github.com'
 baseurl: ''
 google_analytics: 'UA-46278016-1'
 include: ["_pages"]
