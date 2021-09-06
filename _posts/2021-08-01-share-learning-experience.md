@@ -5,7 +5,7 @@ author: congkhon
 categories: [Chia sẻ kinh nghiệm]
 tags: [日本留学試験]
 image: assets/images/EJU.png
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "Bài viết chia sẻ về kinh nghiệm ôn luyện thi EJU của bản thân."
 featured: true
 hidden: true
 comments: false
