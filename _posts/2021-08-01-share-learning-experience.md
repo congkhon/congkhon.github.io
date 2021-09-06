@@ -2,7 +2,7 @@
 layout: post
 title:  "Chia sẻ kinh nghiệm luyện thi EJU/RYU phần RIKEI(理系)"
 author: congkhon
-categories: [ EJU ]
+categories: [Chia sẻ kinh nghiệm]
 tags: [日本留学試験]
 image: assets/images/EJU.png
 description: "My review of Inception movie. Acting, plot and something else in this short description."

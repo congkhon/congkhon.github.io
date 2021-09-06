@@ -5,9 +5,174 @@
     <description>A personal blog, telling stories about self-study, cooking and technology.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Aug 2021 15:10:19 +0900</pubDate>
-    <lastBuildDate>Tue, 03 Aug 2021 15:10:19 +0900</lastBuildDate>
+    <pubDate>Mon, 06 Sep 2021 23:41:37 +0900</pubDate>
+    <lastBuildDate>Mon, 06 Sep 2021 23:41:37 +0900</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Chia sẻ kinh nghiệm xin việc ngành IT</title>
+        <description>&lt;p&gt;Mình xin phép được chia sẻ kinh nghiệm đi xin việc của bản thân, hi vọng bài viết này có ích cho việc đi xin việc của các bạn đang ngành IT có dự định đi xin việc ở Nhật.&lt;/p&gt;
+
+&lt;h2 id=&quot;i-quá-trình-đi-xin-việc&quot;&gt;I. Quá trình đi xin việc:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Đầu năm 3: Quyết định đi xin việc thay vì học thạc sĩ.&lt;/li&gt;
+  &lt;li&gt;Kì 1 năm 3: Đi xin làm thêm ở công ty Hachi-X, một công ty startup trong lĩnh vực CNTT.&lt;/li&gt;
+  &lt;li&gt;Hè năm 3 (Tháng 8/2020): Tham gia các buổi ゼミ của TAIYO JOB. Thông qua những buổi ゼミnày, mình xác định 就職軸, tìm hiểu về 業界, tập tành viết 履歴書.&lt;/li&gt;
+  &lt;li&gt;Tháng 8-9: Đăng kí tài khoản trên Mynavi và Rikunabi, đăng kí đi Intern được 3 công ty. Qua các buổi One day intern này mình hình dung được công việc của một kĩ sư IT, đồng thời xác định được vị trí mình muốn làm là Fullstack Engineer, Data Science hoặc AI Engineer.&lt;/li&gt;
+  &lt;li&gt;Tháng 10/2020: エントリ công ty đầu tiên, công ty chuyên về các service về trí tuệ nhân tạo → Kết quả trượt.&lt;/li&gt;
+  &lt;li&gt;Tháng 11/2020 ~ 1/2021: Tự 反省 lý do trượt công ty đầu tiên. Lý do: Viết CV còn chưa được tốt, chưa có thành tích gì để PR cả → Tạo portofolio bằng HTML, CSS, JS để PR bản thân, tham khảo các bài viết về cách viết CV để viết CV tử tế hơn. Ngoài ra mình biết đến paiza, labBase. Thời gian này mình làm nhiều bài trên paiza lên rank B, tiếp theo là đăng CV của mình lên paiza, labBase, bật chế độ Open to work.&lt;/li&gt;
+  &lt;li&gt;Tháng 2/2022: Thông qua paiza, labBase, mình nhận được thư mời phỏng vấn tầm 10 công ty. Trong số đó, mình thấy có hứng thú với tầm 5 công ty và đã エントリ sau khi tham gia buổi 初回面談  với 人事 của các công ty đó.&lt;/li&gt;
+  &lt;li&gt;Tháng 3/2021 ~ 4/2022: Tham gia thi vòng code + phỏng vấn các công ty. Mình trượt một vài công ty, những công ty còn lại càng vào sâu hơn thì cảm giác bất an càng nhiều → Cảm giác stress, loay hoay tìm thêm công ty.&lt;/li&gt;
+  &lt;li&gt;19/4/2021: Mình tham gia buổi 最終面接 của công ty GA-Technologies (nguyện vọng 1 của mình), kết quả 合否 có ngay sau buổi sáng hôm đấy → Kết quả đỗ → Thở phào nhẹ nhõm → Kết thúc hành trình đi xin việc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ii-kinh-nghiệm-đi-xin-việc&quot;&gt;II. Kinh nghiệm đi xin việc:&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-bắt-đầu-sớm-là-một-lợi-thế&quot;&gt;1. Bắt đầu sớm là một lợi thế.&lt;/h3&gt;
+
+&lt;p&gt;Bắt đầu sớm bạn sẽ có nhiều thời gian cho:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tìm hiểu công ty hay 業界.&lt;/li&gt;
+  &lt;li&gt;Xác định công việc mình muốn làm, hình dung công ty mình muốn làm.&lt;/li&gt;
+  &lt;li&gt;Chuẩn bị kĩ CV.&lt;/li&gt;
+  &lt;li&gt;Làm nhiều project để PR bản thân.&lt;/li&gt;
+  &lt;li&gt;Vì quỹ thời gian còn nhiều nên dù có trượt vài công ty thì cũng không quá stress mà đó cũng là cơ hội để tích luỹ thêm nhiều kinh nghiệm.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;2-xác-định-sớm-mình-muốn-làm-gì-và-mình-muốn-làm-công-ty-như-thế-nào&quot;&gt;2. Xác định sớm mình muốn làm gì và mình muốn làm công ty như thế nào?&lt;/h3&gt;
+
+&lt;p&gt;Khi tham gia phỏng vấn cùng các công ty, câu hỏi mà mình luôn luôn được hỏi là 就職軸 - những point mà bạn dùng để chọn lựa công ty. Mình xác định những point này khá sớm, dưới đây là 就職軸 của mình.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Có chương trình đào tạo người mới tốt.&lt;/li&gt;
+  &lt;li&gt;Môi trường làm việc mở, nhiều cơ hội phát triển cho người mới. Tạo nhiều cơ hội cho người trẻ trở thành Leader.&lt;/li&gt;
+  &lt;li&gt;Xung quanh có nhiều lập trình viên giỏi.&lt;/li&gt;
+  &lt;li&gt;Nội dung công việc làm về Web service, có thể xây dựng bản thân trở thành Fullstack Developer.&lt;/li&gt;
+  &lt;li&gt;Lương cao, có nhiều chế độ support cho nhân viên.&lt;/li&gt;
+  &lt;li&gt;Có kế hoạch ra global (có chi nhánh ở Việt Nam thì càng tốt).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tất nhiên chọn được những công ty đầy đủ cả 6 point trên thì rất khó, nếu công ty nào có đủ 4/6 point thì mình cũng apply thử.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-tích-cực-tự-làm-các-project-để-pr-bản-thân&quot;&gt;3. Tích cực tự làm các project để PR bản thân.&lt;/h3&gt;
+
+&lt;p&gt;Hồi mới bắt đầu xin việc mình không hề nhận ra tầm quan trọng của việc tự làm các project. Sau khi tham gia phỏng vấn tầm 2 công ty, hầu như công ty nào cũng hỏi mình đã build được gì rồi? May mắn là mình có cơ hội nửa năm làm ở Hachi-X, cộng việc tự build trang portofolio cá nhân nên mình cũng có cái để PR.&lt;/p&gt;
+
+&lt;p&gt;Vì vậy, mình highly recommend các bạn Kohai đang xin việc thì nên build trang portofolio cho bản thân và tự build tầm 3-4 project nhỏ cho mình (làm một mình hoặc làm theo team). Những project này sẽ là một điểm cộng siêu to đối với nhà tuyển dụng. Lưu ý là khi PR các project bạn đã làm thì bạn nên giải thích lý do vì sao bạn muốn làm project đó nhé.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-cày-code-và-dùng-github-để-lưu-code&quot;&gt;4. Cày code và dùng github để lưu code.&lt;/h3&gt;
+
+&lt;p&gt;Vì đặc thù ngành IT nên các công ty đều muốn kiểm tra xem bạn có biết code hay không. Mình nghĩ việc xác định coding level của ứng viên cũng là một điểm quan trọng trong việc tuyển dụng.&lt;/p&gt;
+
+&lt;p&gt;Luyện coding như thế nào? Ngoài việc chăm chỉ học các môn lập trình trên trường, các bạn nên làm thêm các bài code trên các trang luyện code như là hackerrank, paiza.jp. Mình thấy nhiều công ty Nhật có vòng đầu tiên là  coding, nội dung bài code + level của nó tương đương các bài rank B trên paiza.&lt;/p&gt;
+
+&lt;p&gt;Nhiều công ty cũng hỏi về tài khoản github của bạn để vào xem coding style và coding level của bạn. Hãy public một vài project bạn thấy tự tin để họ có thể xem được nhé.&lt;/p&gt;
+
+&lt;h3 id=&quot;5-sử-dụng-đa-dạng-các-trang-đi-xin-việc&quot;&gt;5. Sử dụng đa dạng các trang đi xin việc.&lt;/h3&gt;
+
+&lt;p&gt;Khi sử dụng nhiều service thì mình cũng tăng cơ hội tiếp cận các công ty, dưới đây là các service mình đã dùng.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Rikunabi + Mynabi&lt;/strong&gt;: 2 trang có lượng người dùng rất đông đảo, có nhiều công ty thuần Nhật trên đó. Mình dùng để kiếm vài cty đi One day intern.  Sau một hồi sử dụng thì mình thấy trên này nhiều công ty không phù hợp với mình. Mình thích những công ty không dùng SPI để xét tuyển, tự do về giờ làm, môi trường làm việc open, tự do về trang phục (không cần mặc suit), công ty có định hướng ra Global…. Có vẻ trên Rikunabi + Mynabi mình khó tìm được công ty ưng ý nên mình đã không dùng 2 trang này nữa.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://paiza.jp/&quot;&gt;paiza.jp&lt;/a&gt;: Trang luyện code, PR khả năng code, Up profile bản thân lên để các nhà tuyển dụng chú ý và gửi thư mời. Qua nền tảng này có tầm 5-6 công ty gửi thư mời mình 面談, công ty hiện tại mình nhận 内定 cũng thông qua nền tảng này.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;LabBase&lt;/strong&gt;: Cho dân rikei PR công trình nghiên cứu, 学会発表, các project đã làm …vv. Qua nền tảng này mình nhận được thư mời của tầm 4 công ty.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: Nơi kết nối với những công ty có các chị HR là người Việt, qua nền tảng này mình kết nối với 1 công ty.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lợi ích chung của các service này là các bạn có thể được miễn phần Coding hoặc nộp エントリーシート.&lt;/p&gt;
+
+&lt;h3 id=&quot;6-dùng-google-calendar-để-lưu-deadline-các-công-ty&quot;&gt;6. Dùng Google Calendar để lưu deadline các công ty.&lt;/h3&gt;
+
+&lt;p&gt;Khi xin nhiều công ty, bạn sẽ rất khó quản lí deadline, khi biết deadline nộp CV hay làm coding, mình ススメ bạn lưu lại trên Calendar và check nó mỗi ngày để có sự chuẩn bị chỉnh chu hơn. Nếu quản lí không tốt, bạn trễ hạn làm coding hay nộp cv, hoặc đến lịch phỏng vấn nhưng bạn lại quên thì điều này rất やばい. Bạn sẽ bị trừ điểm rất nặng trong mắt của nhà tuyển dụng. Bonus thêm là trong các buổi phỏng vấn online, bạn nên vào phòng họp trước 5-10 phút, điều này cũng là một điểm cộng trong mắt nhà tuyển dụng.&lt;/p&gt;
+
+&lt;h2 id=&quot;iii-review-các-công-ty-mình-đã-apply&quot;&gt;III. Review các công ty mình đã apply:&lt;/h2&gt;
+
+&lt;p&gt;Mình sẽ list ra danh sách công ty theo thứ tự thời gian apply:&lt;/p&gt;
+
+&lt;h3 id=&quot;1-avinton&quot;&gt;1. AVINTON&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Link: &lt;a href=&quot;https://avinton.com/careers/&quot;&gt;https://avinton.com/careers/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Nội dung công việc: làm về các service liên quan đến AI. Các bạn có hứng thú với vị trí AI engineer hay Data Science có thể tham khảo.&lt;/li&gt;
+  &lt;li&gt;Đây là công ty đầu tiên mình apply, và trượt sau khi làm bài test Toán 100 câu trong thời gian 80 phút (hình thức bài thi giống SPI).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;2-sola&quot;&gt;2. Sola&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Link: &lt;a href=&quot;https://recruit.sola-air.com/&quot;&gt;https://recruit.sola-air.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Nội dung công việc: Làm web service, làm mobile app&lt;/li&gt;
+  &lt;li&gt;Công ty này chế độ rất tốt, lương rất cao. Mình đã nộp hồ sơ và bị out này vòng đầu tiên với lý do “Công ty chúng tôi không có vị trí nào phù hợp với bạn!?”. Đến giờ mình vẫn chưa hiểu vì sao mình trượt công ty này.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;3-ga-technologies-công-ty-nguyện-vọng-1-của-mình-nên-mình-review-kĩ-một-xíu&quot;&gt;3. GA-technologies**: Công ty nguyện vọng 1 của mình nên mình review kĩ một xíu.&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Link: &lt;a href=&quot;https://www.ga-tech.co.jp/careers/students/engineer/&quot;&gt;https://www.ga-tech.co.jp/careers/students/engineer/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Nội dung công việc: công ty làm về Tech trong lĩnh vực bất động sản. Ngoài ra công ty có định hướng mở rộng ra các ngành ngân hàng hay bảo hiểm. Hiện công ty đã có chi nhánh ở Mỹ và có công ty liên kết ở Trung Quốc. Công ty có kế hoạch mở chi nhánh ở Thái Lan nhưng phải tạm hoãn vì dịch bệnh.&lt;/li&gt;
+  &lt;li&gt;Điều mà mình thấy hấp dẫn ở công ty này là chương trình Bootcamp đào tạo nhân viên trong vòng 1 năm trước lúc đi làm. Đỗ được chương trình này bạn sẽ được up thêm 60man 1 năm. Thêm nữa môi trường làm việc của công ty rất open, nhân viên có thể chọn khung giờ làm việc trong ngày cho phù hợp bản thân (miễn đủ 8 tiếng là OK). Lương cơ bản của công ty cũng khá cao, chế độ support nhân viên cũng khá đầy đủ (xem link trên để biết thêm thông chi tiết). Ngoài ra, mình thấy 人間関係 của công ty này cũng khá ổn, ngay cả lúc 選考, nếu có thắc mắc gì muốn trao đổi mình có thể gửi message cho anh sempai phụ trách review coding hay các chị HR, nếu muốn video call cũng có thể inbox rồi đặt lịch meeting. Hiện tại mình đang tham gia chương trình Bootcamp của công ty, mỗi ngày đều được sempai review code rất tận tình, mỗi tháng mình sẽ có lịch 面談 với sempai phụ trách, với sếp bự Chief Development Officer（最高開発責任者) của công ty. Qua các buổi 面談 này mình giải quyết được những vấn đề bản thân đang gặp phải đồng thời đề ra được những mục tiêu phát triển để trở thành một Fullstack Developer.&lt;/li&gt;
+  &lt;li&gt;Bạn nào muốn biết thêm về công ty này hay có dự định apply thì inbox mình, mình hứa sẽ support tận tình.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;4-money-forward&quot;&gt;4. Money Forward&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Link: &lt;a href=&quot;https://corp.moneyforward.com/recruit/&quot;&gt;https://corp.moneyforward.com/recruit/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Nội dung công việc: công ty làm về Fintech - quản lý tiền. Công ty có nhiều app quản lí chi tiêu cá nhân trên Appstore và được review điểm khá cao.&lt;/li&gt;
+  &lt;li&gt;Công ty này có môi trường làm việc trẻ trung, lương cao, nội dung công việc khá thú vị. Công ty này có chi nhánh khá lớn ở TP Hồ Chí Minh, mình thấy công ty này rất ổn cho mục tiêu sau này quay về Việt Nam.&lt;/li&gt;
+  &lt;li&gt;Mình pass vòng coding với vòng hồ sơ, đang lúc chờ lịch phỏng vấn vòng  1 thì nhận được 内定 của công ty  GA-technologies nên mình 選考辞退.&lt;/li&gt;
+  &lt;li&gt;Điểm trừ của công ty này là HR rep mail rất lâu, mail book lịch phỏng vấn vòng 1 của mình gần 2 tuần bên HR mới rep.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;5-sun-asterisk&quot;&gt;5. Sun Asterisk&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Link: &lt;a href=&quot;https://sun-asterisk.com/recruit/&quot;&gt;https://sun-asterisk.com/recruit/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Nội dung công việc: công ty làm về DX Transform - chuyển đổi số, có các service để giúp các công ty khác trong việc chuyển đổi số.&lt;/li&gt;
+  &lt;li&gt;Môi trường làm việc của công ty này cũng rất tự do và thoải mái đúng kiểu mình thích. Nội dung công việc cũng rất OK, bạn có thể thử thách mình ở nhiều mảng như AI, IoT hay Web developer. Ngoài ra, công ty có chi nhánh rất to ở Việt Nam nên rất ổn cho mục tiêu sau này quay về Việt Nam của mình.&lt;/li&gt;
+  &lt;li&gt;Mình biết đến công ty thông qua LinkedIn, chị HR tên Thanh của công ty đã inbox mình rủ 初回面談. Mình pass vòng hồ sơ, đang lúc chờ lịch phỏng vấn vòng  1 thì nhận được 内定 của công ty  GA-technologies nên mình 選考辞退.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bonus&quot;&gt;Bonus:&lt;/h2&gt;
+&lt;p&gt;Những công ty mình rất thích nhưng do biết đến những công ty đó khá muộn nên mình không kịp apply.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-cookpad&quot;&gt;1. Cookpad:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Link: &lt;a href=&quot;https://info.cookpad.com/careers/new-graduates/&quot;&gt;https://info.cookpad.com/careers/new-graduates/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Công ty này chắc bạn đã từng nghe qua rồi, công ty này làm Tech service trong việc chia sẻ công thức nấu ăn. Ngoài ra công ty này có nhiều service khác về ネットスーパー.&lt;/li&gt;
+  &lt;li&gt;Mình là một đứa khá cuồng việc nấu nướng nên thấy công ty này là mình mê luôn.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;2-カカクコム&quot;&gt;2. カカクコム:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Link: &lt;a href=&quot;https://kakaku.com/info/recruit/job/graduate.html&quot;&gt;https://kakaku.com/info/recruit/job/graduate.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Công ty có nhiều service hay ho như 購買支援サイト &lt;a href=&quot;http://xn--1sqt31d.com/&quot;&gt;価格.com&lt;/a&gt;, レストラン検索・予約サイト 食べログ, 求人情報の一括検索サイト 求人ボックス…vào công ty này chắc được động tay vào nhiều mảng lắm!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;3-visional&quot;&gt;3. Visional:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Link: &lt;a href=&quot;https://newgrads.visional.inc/&quot;&gt;https://newgrads.visional.inc/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Công ty này cũng làm về DX - chuyển đổi số.&lt;/li&gt;
+  &lt;li&gt;Điều hấp dẫn mình  là công ty này lương rất cao (600man/năm) cho người mới ra trường! Môi trường làm việc của công ty cũng rất OK.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;4-sansan&quot;&gt;4. Sansan:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Link: &lt;a href=&quot;https://jp.corp-sansan.com/newgrads/&quot;&gt;https://jp.corp-sansan.com/newgrads/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Công ty này nổi  tiếng về service matching business dựa vào app quản lý danh thiếp, ngoài ra công ty cũng đang triển khai các service khác trong lĩnh vực chuyển đổi số.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;iii-lời-kết&quot;&gt;III. Lời kết&lt;/h2&gt;
+
+&lt;p&gt;Hy vọng bài viết này có ích cho các bạn đang đi xin việc. Nếu có thắc mắc gì các bạn có thể inbox cho mình, mình sẽ hỗ trợ các bạn.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Sep 2021 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/find-job/</link>
+        <guid isPermaLink="true">http://localhost:4000/find-job/</guid>
+        
+        <category>就活</category>
+        
+        
+        <category>Chia sẻ kinh nghiệm</category>
+        
+      </item>
     
       <item>
         <title>Chia sẻ kinh nghiệm luyện thi EJU/RYU phần RIKEI(理系)</title>
@@ -125,362 +290,7 @@ các các bạn học hết, học kĩ tất cả các phần vì như mình đ�
         <category>日本留学試験</category>
         
         
-        <category>EJU</category>
-        
-      </item>
-    
-      <item>
-        <title>Powerful things you can do with the Markdown editor</title>
-        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
-
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
-
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
-
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
-
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;html&quot;&gt;HTML&lt;/h4&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;li&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;ml-1 mr-1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;target=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;_blank&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;i&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;fab fa-twitter&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/i&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;css&quot;&gt;CSS&lt;/h4&gt;
-
-&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nc&quot;&gt;.highlight&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#999988&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;font-style&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;italic&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;nc&quot;&gt;.highlight&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.err&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#a61717&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#e3d2d2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;js&quot;&gt;JS&lt;/h4&gt;
-
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-9
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;c1&quot;&gt;// alertbar later&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;280&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;.alertbar&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;.alertbar&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeOut&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;python&quot;&gt;Python&lt;/h4&gt;
-
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;ruby&quot;&gt;Ruby&lt;/h4&gt;
-
-&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nb&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'redcarpet'&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;markdown&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Redcarpet&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Hello World!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;markdown&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;to_html&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;c&quot;&gt;C&lt;/h4&gt;
-
-&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
-
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
-
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
-
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
-
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/powerful-things-markdown-editor/</link>
-        <guid isPermaLink="true">http://localhost:4000/powerful-things-markdown-editor/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>The first mass-produced book to deviate from a rectilinear format</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/first-mass-produced/</link>
-        <guid isPermaLink="true">http://localhost:4000/first-mass-produced/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Education must also train one for quick, resolute and effective thinking.</title>
-        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor&lt;/p&gt;
-
-&lt;p&gt;If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
-
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
-
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
-
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
-
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
-
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
-
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
-
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
-
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/education/</link>
-        <guid isPermaLink="true">http://localhost:4000/education/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Accumulated experience of social living</title>
-        <description>&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-
-&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/acumulated-experience/</link>
-        <guid isPermaLink="true">http://localhost:4000/acumulated-experience/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>About Bundler</title>
-        <description>&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gem install bundler&lt;/code&gt; installs the bundler gem through RubyGems. You only need to install it once - not every time you create a new Jekyll project. Here are some additional details:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundler&lt;/code&gt; is a gem that manages other Ruby gems. It makes sure your gems and gem versions are compatible, and that you have all necessary dependencies each gem requires.&lt;/p&gt;
-
-&lt;p&gt;The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gemfile&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; files inform &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; about the gem requirements in your site. If your site doesn’t have these Gemfiles, you can omit &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec&lt;/code&gt; and just &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;run jekyll serve&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;When you run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; uses the gems and versions as specified in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; to ensure your Jekyll site builds with no compatibility or dependency conflicts.&lt;/p&gt;
-
-&lt;p&gt;For more information about how to use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; in your Jekyll project, this tutorial should provide answers to the most common questions and explain how to get up and running quickly.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 12 May 2018 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/about-bundler/</link>
-        <guid isPermaLink="true">http://localhost:4000/about-bundler/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-      </item>
-    
-      <item>
-        <title>We all wait for summer</title>
-        <description>&lt;p&gt;As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.&lt;/p&gt;
-
-&lt;p&gt;It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/we-all-wait-for-summer/</link>
-        <guid isPermaLink="true">http://localhost:4000/we-all-wait-for-summer/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Tree of Codes</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/tree-of-codes/</link>
-        <guid isPermaLink="true">http://localhost:4000/tree-of-codes/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Red Riding Hood</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/red-riding/</link>
-        <guid isPermaLink="true">http://localhost:4000/red-riding/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Press and education</title>
-        <description>&lt;p&gt;Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;
-
-&lt;p&gt;Education must also train one for quick, &lt;strong&gt;resolute and effective thinking&lt;/strong&gt;. To think incisively and to think for one’s self is very difficult.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.&lt;/p&gt;
-
-&lt;p&gt;The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?&lt;/p&gt;
-
-&lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/press-and-education/</link>
-        <guid isPermaLink="true">http://localhost:4000/press-and-education/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
+        <category>Chia sẻ kinh nghiệm</category>
         
       </item>
     
