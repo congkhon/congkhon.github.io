@@ -5,7 +5,7 @@ description: "A personal blog, telling stories about self-study, cooking and tec
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png?'
 baseurl: ''
-google_analytics: 'UA-46278016-1'
+google_analytics: 'G-41FSFVN47Q'
 include: ["_pages"]
 permalink: /:title/
 
