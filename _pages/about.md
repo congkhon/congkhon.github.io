@@ -11,11 +11,9 @@ comments: false
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/avatar.png" alt="avatar"/></p>
 
 <p>
-My name is Nguyen Cong Khon. I was born in Hue, central Vietnam. I'm studying Bachelor of Computer Science at Toyohashi University of Technology in Japan.<br><br>
+From the Heart of Hue to the Lights of Chiba: A Web Developer's Journey 🌏🖥️ <br/><br/>
 
-I'm currently doing a research on Applied Natural Language Processing in <a href="https://is.cs.tut.ac.jp/">Applied Information System Lab</a>. In 2022/04, I will move to Tokyo to work for a Tech Company as a Full-stack engineer.<br><br>
-
-This blog is where I share stories of my years studying abroad in Japan.
+Join me as I navigate the intersections of two worlds, blending my Vietnamese roots with the fast-paced tech landscape of Japan. By day, I'm crafting the digital spaces of tomorrow in Tokyo's PropTech realm. By night, I'm deep in strategic battles on the chessboard. Follow along as I share my insights on web development and the joy of learning something new every day.🛠️♟️📚<br/><br/>
 </p>
 
 </div>
